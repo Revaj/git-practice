@@ -12,3 +12,8 @@ The goal of this laboratory is to practice the DevOps cycle, from a commit to an
 3. Graph with the merge commit
 4. git-practice on GitHub
 5. Commit from GitHub pulled locally
+
+
+## Reflection
+
+Q1. Version control works well for text documents such as Markdown: Git shows exactly which lines were added or changed in each version.
